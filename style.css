@@ -1,0 +1,188 @@
+body{
+    background-color: aliceblue;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color:rgb(87, 59, 227) ;
+display: flex;
+justify-content: space-around;
+
+
+}
+h2{
+    position: relative;
+    left: 70px;
+    top: -50px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+.logo{
+
+}
+.logo img{
+    
+    width: 50px;
+    margin-top: 10px;
+}
+span{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 39px;
+    font-weight: 500;
+    margin-left: 20px;
+    position: relative;
+    top: -15px;
+
+    
+}
+nav{
+
+}
+ul{
+position: relative;
+top: 33px;
+left: 200px;
+}
+ul li{
+display: inline;
+margin-left:50px ;
+
+
+}
+ul li a{
+color: antiquewhite;
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 500;
+font-size: 20px;
+}
+.logo-img{
+position: relative;
+top: 20px;
+right: 220px;
+}
+/*header section end*/
+/*section 1 start*/
+.section1{
+    width: 900px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: #fff;
+    
+
+display: flex;
+}
+.box1{
+padding: 60px 30px;
+
+}
+.box2{
+
+}
+.box3{
+
+}
+.image1{
+
+}
+.image1 img{
+    width: 80px;
+    margin-top: 20px;
+}
+span{
+    color: black;
+    font-size: 20px;
+    position: relative;
+    top: -30px;
+}
+/*section1 end*/
+/*section 2 start*/
+.section2{
+    width: 900px;
+    margin: auto;
+    display: flex;
+    background-color: #fff;
+}
+.ppp1{
+position: relative;
+top: 50px;
+right: 100px;
+}
+.ppp2{
+position: relative;
+top: 50px;
+left: 140px;
+}
+.photo img{
+    width:200px ;
+}
+.content{
+    position: relative;
+    left: 220px;
+    top: -120px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5539e3;
+    position: relative;
+    left: 40px;
+}
+/*section2 end*/
+/*section3 start*/
+.section3{
+    width: 900px;
+    margin: auto;
+    margin-top: 30px;
+    
+    background-color: #fff;
+}
+.box3{
+display: flex;
+padding: 20px;
+}
+.rrr{
+margin-left: 60px;
+}
+.ii img{
+    width:220px ;
+}
+.content1{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+#para{
+    color: red;
+}
+.sss{
+
+}
+.kk img{
+width: 17px;
+}
+.aa{
+position: relative;
+left: 120px;
+top: -20px;
+
+border-radius: 20px;
+width: 110px;
+}
+.ll{
+    position: relative;
+    left: 30px;
+    top: -20px;
+}
+.zz img{
+width: 19px;
+}
